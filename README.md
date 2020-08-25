@@ -32,4 +32,4 @@ python -m app.py
 
 ------------------------------------------
 
-## This project is made for Hackathon without any prior prepreparation in under 30 hours
+
